@@ -19,24 +19,24 @@ Bu proje, kripto para birimlerinin RSI (Göreceli Güç Endeksi) değerlerini g�
 Projeyi yerel ortamınızda çalıştırmak için aşağıdaki adımları izleyin:
 
 1. Repoyu klonlayın:
-   \`\`\`
-   git clone https://github.com/your-username/crypto-rsi-heatmap.git
-   \`\`\`
+   ```
+   git clone <repo-url>
+   ```
 
 2. Proje dizinine gidin:
-   \`\`\`
+   ```
    cd crypto-rsi-heatmap
-   \`\`\`
+   ```
 
 3. Bağımlılıkları yükleyin:
-   \`\`\`
+   ```
    npm install
-   \`\`\`
+   ```
 
 4. Geliştirme sunucusunu başlatın:
-   \`\`\`
+   ```
    npm run dev
-   \`\`\`
+   ```
 
 5. Tarayıcınızda \`http://localhost:3000\` adresine giderek uygulamayı görüntüleyin.
 
