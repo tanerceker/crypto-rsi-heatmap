@@ -1,3 +1,5 @@
+![Preview App](/public/preview.jpg)
+
 # Crypto RSI Heatmap
 
 Bu proje, kripto para birimlerinin RSI (Göreceli Güç Endeksi) değerlerini gösteren interaktif bir ısı haritası uygulamasıdır. Kullanıcılar, farklı zaman dilimlerinde kripto paraların RSI değerlerini görselleştirebilir ve analiz edebilir.
